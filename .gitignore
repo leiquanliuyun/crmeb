@@ -1,0 +1,16 @@
+/.idea
+/.vscode
+*.log
+/.env
+**/*.pid
+runtime/
+install.lock
+public/uploads
+public/admin
+*.zip
+*.rar
+help/
+view/
+public/pages/
+public/static/
+public/index.html
